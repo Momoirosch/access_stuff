@@ -1,0 +1,7 @@
+info1:3
+
+# comment: 6
+
+info2: 4
+e :5
+
